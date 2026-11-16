@@ -25,8 +25,8 @@ Download all required input files and put them in the same directory. Install al
 
 # Output Files & Results
 ## Console Output:
-- summary statistics for fold changes
-- lists of significant DEGs
+- Summary statistics for fold changes
+- Lists of significant DEGs
 - DEG counts by chromosome
 - DEG expression category counts
 ## Figures Displayed
